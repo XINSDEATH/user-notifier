@@ -12,3 +12,6 @@ you can input the game id when u run the program
 
 this checks every couple seconds or minutes.
 
+```pip install requests```
+```pip install discord_webhook```
+```py notify.py```
